@@ -67,3 +67,6 @@ ace-editor:1.1
 # Jenkins v2 specific
 matrix-auth:1.4
 blueocean:1.0.0-b10
+
+# Github pull request builder plugin - https://wiki.jenkins-ci.org/display/JENKINS/GitHub+pull+request+builder+plugin
+ghprb:1.33.1
